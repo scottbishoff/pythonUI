@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue May 02 10:36:07 2017
-
-@author: a5242
+Python 2.7.13 |Anaconda 4.3.1 (64-bit)| (default, Dec 19 2016, 13:29:36) [MSC v.1500 64 bit (AMD64)]
+Author: Scott Bishoff
 """
 
 import sys
